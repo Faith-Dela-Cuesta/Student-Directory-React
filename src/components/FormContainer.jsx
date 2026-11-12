@@ -7,6 +7,11 @@ const FormContainer = () => {
             <input type="text" name="name" id="name"/>
         </div>
 
+         <div class="input-fields">
+          <label for="srcode">Srcode</label>
+          <input type="text" name="Srcode" id="Srcode"/>
+        </div>
+
         <div class="input-fields">
           <label for="program">Program</label>
           <input type="text" name="program" id="program"/>
